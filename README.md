@@ -37,3 +37,4 @@ Solution: Successfully implemented 2GB of Swap Memory to provide virtual RAM, al
 The deployment was verified by successfully accessing the Strapi Admin Panel at: http://16.171.21.210:1337/admin
 
 Developed by: Settibathula Nithin
+DevOps Intern
